@@ -4,7 +4,7 @@ fun main()
  var kelas = "XI RPL 2"
  var hobi = "basket"
 
- println("nama : $nama")
- println("kelas : $kelas")
- println("hobi : $hobi")
+ println("nama: $nama")
+ println("kelas: $kelas")
+ println("hobi: $hobi")
 }
