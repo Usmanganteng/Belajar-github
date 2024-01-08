@@ -8,3 +8,5 @@ fun main()
  println("kelas: $kelas")
  println("hobi: $hobi")
 }
+
+membuat website dari nol
